@@ -1,2 +1,2 @@
-def sub_one(x):
-    return x-1
+def sub(x, sub=1):
+    return x - sub
